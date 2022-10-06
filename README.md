@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&labelColor=242424&logo=html5&logoColor=e34f26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1471b6?style=for-the-badge&labelColor=242424&logo=css3&logoColor=1572b66" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=242424&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&labelColor=242424&logo=rust&logoColor=dea584" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=242424&logo=python&logoColor=3776ab" alt="Python" />
   <img src="https://img.shields.io/badge/Godot%20Engine-478cBf?style=for-the-badge&labelColor=242424&logo=godot%20engine&logoColor=478cBf" alt="Godot Game Engine" />
 </div>
