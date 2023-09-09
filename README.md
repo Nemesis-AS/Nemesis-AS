@@ -20,6 +20,7 @@
 
 <h4 align="center">Frameworks & Libraries I'm Comfortable With</h4>
 <div align="center">
+  <img src="https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&labelColor=242424&logo=svelte&logoColor=ff3e00" alt="Svelte" />
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&labelColor=242424&logo=react&logoColor=61dafb" alt="React" />
   <img src="https://img.shields.io/badge/Vue%20JS-4fc08d?style=for-the-badge&labelColor=242424&logo=vue.js&logoColor=4fc08d" alt="Vue JS" />
   <img src="https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&labelColor=242424&logo=Next.js&logoColor=000000" alt="Next JS" />
@@ -32,6 +33,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&labelColor=242424&logo=visual%20studio%20code&logoColor=007acc" alt="VIsual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=for-the-badge&labelColor=242424&logo=visual%20studio&logoColor=5c2d91" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Neovim-5d973b?style=for-the-badge&labelColor=242424&logo=neovim&logoColor=5d973b" alt="Neovim" />
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&labelColor=242424&logo=git&logoColor=f05032" alt="Git" />
   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&labelColor=242424&logo=node.js&logoColor=339933" alt="NodeJS" />
 </div>
