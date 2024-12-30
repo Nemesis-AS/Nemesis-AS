@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&labelColor=242424&logo=react&logoColor=61dafb" alt="React" />
   <img src="https://img.shields.io/badge/Vue%20JS-4fc08d?style=for-the-badge&labelColor=242424&logo=vue.js&logoColor=4fc08d" alt="Vue JS" />
   <img src="https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&labelColor=242424&logo=Next.js&logoColor=000000" alt="Next JS" />
-  <img src="https://img.shields.io/badge/Nuxt%20JS-00dc82?style=for-the-badge&labelColor=242424&logo=nuxt.js&logoColor=00dc82" alt="Nuxt JS" />
+  <img src="https://img.shields.io/badge/Nuxt%20JS-00dc82?style=for-the-badge&labelColor=242424&logo=nuxt&logoColor=00dc82" alt="Nuxt JS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=242424&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=for-the-badge&labelColor=242424&logo=tailwindcss&logoColor=06b6d4" alt="Tailwind CSS" />
 </div>
